@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: lightcyan;
+    background-color: rgb(120, 219, 219);
     color: darkgreen;
     display: flex;
     min-height: 100vh;
@@ -39,7 +39,7 @@ body{
 }
 
 .rating:hover{
-    background:darkseagreen;
+    background:rgba(0,128,128,0.5);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, .3);
     color: aliceblue;
